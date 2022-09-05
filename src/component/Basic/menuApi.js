@@ -1,0 +1,77 @@
+const Menu = [
+    {
+        id: 1,
+        image: "image/maggie.jpg",
+        name: "Maggie",
+        category: "Breakfast",
+        price: 30,
+        description: "Maggi noodles are dried noodles fused with oil, and sold with a packet of flavorings. These noodles are usually eaten after being cooked in boiling water for 3 to 5 minutes or eaten straight from the packet. Just boil the water, add the tastemaker and noodles and your maggi is ready within 2 to 3 minutes.",
+    },
+    {
+        id: 2,
+        image: "image/paranthe.jpg",
+        name: "Parantha Mix",
+        category: "Breakfast",
+        price: 35,
+        description: "This mix veg paratha is soft, healthy, and delicious whole wheat flatbread made with various vegetables and spices. Adding cooked mixed veggies makes this vegetable paratha unbelievably soft and they remain soft even after they cool.",
+    },
+    {
+        id: 3,
+        image: "image/poha.jpg",
+        name: "Poha",
+        category: "Breakfast",
+        price: 40,
+        description: "Poha is an easy, delicious and healthy breakfast recipe, popular in Maharashtra. Made with onions, potatoes and seasoning like chillies, crushed peanuts, lemon and curry leaves make up a tasty and easy one pot meal of Poha, especially when you don't feel like cooking. It is a very light and a refreshing breakfast dish.",
+    },
+    {
+        id: 4,
+        image: "image/kadhi.jpg",
+        name: "Kadhi Pakoda",
+        category: "Lunch",
+        price: 50,
+        description: "The Hindi word “Kadhi” denotes a yogurt sauce that has been slow-cooked for quite some time. The word “pakora” means fritters made from gram flour (besan). In this recipe, the fritters are made with savory, spiced batter made with onions, gram flour and seasonings.",
+    },
+    {
+        id: 5,
+        image: "image/rajma.jpg",
+        name: "Rajma",
+        category: "Lunch",
+        price: 50,
+        description: "This Rajma recipe is a lightly spiced, creamy and delicious Punjabi style curry made with protein rich kidney beans, aromatics like onions, ginger, garlic, fragrant spices and tangy tomatoes.",
+    },
+    {
+        id: 6,
+        image: "image/vegBiryani.jpg",
+        name: "Veg Biryani",
+        category: "Lunch",
+        price: 60,
+        description: "This Veg Biryani is an authentic Indian vegetarian recipe packed full of your favorite rice, veggies, and spices. Made with patience and lots of love, this delicious veg dum biryani requires both care and attention to detail.",
+    },
+    {
+        id: 7,
+        image: "image/paneerLababdar.jpg",
+        name: "Paneer Lababdar",
+        category: "Dinner",
+        price: 120,
+        description: "Paneer Lababdar is an easy-to-prepare, restaurant-style dish of paneer (Indian cottage cheese) in a creamy, mildly tangy and faintly sweet gravy. Onions, tomatoes, cashews and spices make this a rich, flavorful and delicious recipe",
+    },
+    {
+        id: 8,
+        image: "image/mixVeg.jpg",
+        name: "Mix Veg",
+        category: "Dinner",
+        price: 90,
+        description: "Mix veg curry is made by cooking a mixture of vegetables together in a traditional Indian onion-tomato gravy. The dish is characterized by multiple flavors due to the addition of many vegetables which also makes it quite nutritious.",
+    },
+    {
+        id: 9,
+        image: "image/matarMushroom.jpg",
+        name: "Mushroom Matar",
+        category: "Dinner",
+        price: 120,
+        description: "Mushroom Matar, or mushrooms and peas in a creamy onion, tomato and cashew sauce, is a staple of Indian restaurant menus. But this creamy, spicy, saucy dish is just as easy to put together quickly in your own kitchen. Serve it hot with rice or rotis",
+    },
+
+]
+
+export default Menu;
